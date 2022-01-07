@@ -18,7 +18,7 @@
     <ClCompile Include="source\vulkan_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="vulkan_triangle.cpp">
+    <ClCompile Include="source\vulkan_triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
