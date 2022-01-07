@@ -8,6 +8,8 @@
 
 #include <iostream>
 
+/*
+
 int main() {
     glfwInit();
 
@@ -33,3 +35,5 @@ int main() {
 
     return 0;
 }
+
+*/
